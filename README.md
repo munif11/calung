@@ -1,5 +1,4 @@
 # calung
-Kalem we atuh
 $ pkg update && upgrade
 $ pkg install python
 $ pkg install git
